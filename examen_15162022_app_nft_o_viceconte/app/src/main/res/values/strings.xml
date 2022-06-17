@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">examen_15162022_app_nft_o_viceconte</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txt_val">VALIDER</string>
+    <string name="txt_rfg">REFUGE</string>
+    <string name="txt_btqu">BOUTIQUE</string>
+    <string name="txt_nm_cht">NOM CHAT</string>
+    <string name="txt_rtr">RETOUR</string>
+    <string name="txt_acht">ACHETER</string>
+    <string name="txt_vnd">VENDRE ?</string>
+    <string name="txt_nnl">ANNULER</string>
+    <string name="txt_x">X</string>
+    <string name="txt_deco">LANCER UNE PARTIE</string>
+
+    <string name="txt_cat_name">Cat Name</string>
+    <string name="txt_cat_price">Cat Price</string>
+
+    <string name="txt_sTitle_1">Tickets</string>
+    <string name="txt_ticketP_1">x1 ticket</string>
+    <string name="txt_ticketP_2">x5 tickets</string>
+    <string name="txt_ticketP_3">x10 tickets</string>
+    <string name="txt_sTitle_2">KITTENS AND CATS</string>
+
+</resources>

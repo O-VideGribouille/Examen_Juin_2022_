@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/drawable/splash_image.xml" value="0.109" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_boutique_chat_fiche_page.xml" value="0.2" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_boutique_page.xml" value="0.25" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_game_page.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_refuge_cat_fiche_page.xml" value="0.536" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/activity_refuge_page.xml" value="0.25" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_firstfragment.xml" value="0.25" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_fivefragment.xml" value="0.1" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_fourfragment.xml" value="0.2" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_secondfragment.xml" value="0.176" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_sixfragment.xml" value="0.1" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/fragment_thirdfragment.xml" value="0.1" />
+        <entry key="..\:/Users/laboi/AndroidStudioProjects/examen_15162022_app_nft_o_viceconte/app/src/main/res/layout/list_chat_refuge.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

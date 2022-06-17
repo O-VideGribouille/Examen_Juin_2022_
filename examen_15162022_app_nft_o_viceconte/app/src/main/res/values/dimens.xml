@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carre">65dp</dimen>
+    <dimen name="p_carre">50dp</dimen>
+    <dimen name="large">284dp</dimen>
+    <dimen name="mini">77dp</dimen>
+
+    <dimen name="grand_cercle">110dp</dimen>
+
+</resources>

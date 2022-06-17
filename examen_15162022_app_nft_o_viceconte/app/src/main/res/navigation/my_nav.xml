@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/firstfragment">
+
+
+    <fragment
+        android:id="@+id/firstfragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.firstfragment"
+        android:label="fragment_firstfragment"
+        tools:layout="@layout/fragment_firstfragment" >
+        <action
+            android:id="@+id/action_firstfragment_to_secondfragment"
+            app:destination="@id/secondfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/secondfragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.secondfragment"
+        android:label="fragment_secondfragment"
+        tools:layout="@layout/fragment_secondfragment" >
+        <action
+            android:id="@+id/action_secondfragment_to_thirdfragment2"
+            app:destination="@id/thirdfragment" />
+        <action
+            android:id="@+id/action_secondfragment_to_fourfragment2"
+            app:destination="@id/fourfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/thirdfragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.thirdfragment"
+        android:label="fragment_thirdfragment"
+        tools:layout="@layout/fragment_thirdfragment" >
+        <action
+            android:id="@+id/action_thirdfragment_to_fivefragment"
+            app:destination="@id/fivefragment" />
+        <action
+            android:id="@+id/action_thirdfragment_to_secondfragment"
+            app:destination="@id/secondfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fourfragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.fourfragment"
+        android:label="fragment_fourfragment"
+        tools:layout="@layout/fragment_fourfragment" >
+        <action
+            android:id="@+id/action_fourfragment_to_sixfragment"
+            app:destination="@id/sixfragment" />
+        <action
+            android:id="@+id/action_fourfragment_to_secondfragment"
+            app:destination="@id/secondfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fivefragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.fivefragment"
+        android:label="fragment_fivefragment"
+        tools:layout="@layout/fragment_fivefragment" >
+        <action
+            android:id="@+id/action_fivefragment_to_thirdfragment"
+            app:destination="@id/thirdfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sixfragment"
+        android:name="org.o7planning.examen_15162022_app_nft_o_viceconte.sixfragment"
+        android:label="fragment_sixfragment"
+        tools:layout="@layout/fragment_sixfragment" >
+        <action
+            android:id="@+id/action_sixfragment_to_fourfragment"
+            app:destination="@id/fourfragment" />
+    </fragment>
+</navigation>
